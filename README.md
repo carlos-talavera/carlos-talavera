@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a web development enthusiast and a computer systems engineering student 💻
 - I'm looking to collaborate on JavaScript-related projects and gain more experience on real-world applications 📊
-- I'm currently diving into React.js and Node.js and developing blazing fullstack applications ⚡
+- I'm currently diving into React.js, Next.js and Node.js and developing blazing fullstack applications ⚡
 - I'm currently working on personal projects and a few as a freelancer 👨‍💻
 
 ## Skills
