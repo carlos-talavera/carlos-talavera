@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Carlos Talavera 👋
 
-I'm a web development enthusiast and a computer systems engineering student 💻
-- I'm looking to collaborate on web projects and gain more experience on real-world applications 📊
-- I'm currently diving into React.js, Next.js, Vue.js, Node.js and Go and developing blazing fullstack applications ⚡
-- I'm currently working on personal projects and a few as a freelancer 👨‍💻
+I love programming and having fun, and guess what? Turns out you can have fun while programming!
 
 ## Skills
 <p align="center">
